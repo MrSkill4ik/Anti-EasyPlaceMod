@@ -1,0 +1,5 @@
+name: FIXeasyPlaceMode
+version: '${project.version}'
+main: mrskill4ik.fixeasyplacemode.FIXeasyPlaceMode
+api-version: 1.19
+authors: [ MrSkill4ik ]
